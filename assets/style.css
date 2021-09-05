@@ -2,3 +2,8 @@
   background: url('../../static/images/uni-rostock-logo.png') no-repeat;
   background-size: contain;
 }
+
+body {
+  --mainColor: #004a99;
+  --mainHoverColor: #ffa100;
+}
