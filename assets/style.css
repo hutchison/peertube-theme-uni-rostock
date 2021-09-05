@@ -1,0 +1,4 @@
+#custom-css .header .icon-logo {
+  background: url('../../static/images/uni-rostock-logo.png') no-repeat;
+  background-size: contain;
+}
