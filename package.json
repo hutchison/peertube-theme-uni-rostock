@@ -1,6 +1,6 @@
 {
   "name": "peertube-theme-uni-rostock",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "PeerTube theme of the University of Rostock",
   "engine": {
     "peertube": ">=1.3.0"
